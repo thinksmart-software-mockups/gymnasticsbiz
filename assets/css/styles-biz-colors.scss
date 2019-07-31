@@ -1,10 +1,10 @@
 /////////////////////////////////////////////////////////////////////////
 /* DanceBiz Colors */
 // $db-primary: #eb66bd;
-$db-primary: #bd1a8d;
-// $db-primary: #b94591;
-$db-light:#ffa8e4;
-$db-dark:  rgba(67, 3, 48);   // #a31572; // previously #810f57
+// $db-primary: #bd1a8d;
+// // $db-primary: #b94591;
+// $db-light:#ffa8e4;
+// $db-dark:  rgba(67, 3, 48);   // #a31572; // previously #810f57
 
 
 // // $db-dark:  #0d1666;   // #a31572; // previously #810f57
@@ -16,14 +16,14 @@ $db-dark:  rgba(67, 3, 48);   // #a31572; // previously #810f57
 // $nav-color-bg-opaque: rgba(67, 3, 48, .9); // with opacity
 
 // // DanceBiz Retheming
-$primary: $db-primary;
-$secondary: $db-light;
-$dark: $db-dark;
+// $primary: $db-primary;
+// $secondary: $db-light;
+// $dark: $db-dark;
 
 /* ClassBiz Colors */
 // $cb-primary: #773079;
 // $cb-light:#c78ec7;
-// $cb-dark:  rgb(66, 26, 66);   // #a31572; // previously #810f57
+// $cb-dark:  rgb(82, 33, 82);   // #a31572; // previously #810f57
 // $gradient-step-1: #522153;
 // $gradient-step-2: #6c2c6d; 
 // $gradient-step-3: #522153;
@@ -36,15 +36,15 @@ $dark: $db-dark;
 // $dark: $cb-dark;
 
 /* GymnasticsBiz Colors */
-// $gb-primary: rgb(233, 131, 15);
-// $gb-light:rgb(248, 194, 132);
-// $gb-dark:  rgb(207, 101, 2); 
-// $secondary: $gb-light;
-// $dark: $gb-dark;
+$gb-primary: rgb(233, 131, 15);
+$gb-light:rgb(248, 194, 132);
+$gb-dark:  rgb(207, 101, 2); 
+$secondary: $gb-light;
+$dark: $gb-dark;
 
-// $primary: $gb-primary;
-// $secondary: $gb-light;
-// $dark: darken($gb-dark, 10%);
+$primary: $gb-primary;
+$secondary: $gb-light;
+$dark: darken($gb-dark, 10%);
 
 /* MusicBiz */
 // $mb-primary: rgb(178, 125, 43);
